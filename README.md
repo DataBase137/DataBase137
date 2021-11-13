@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Trainboy137!
 - 👀 I’m interested in programming; specifically web design!
+- ⌨ I am fluent in HTML and hope to learn more!
 - 🌱 I’m currently learning CSS and JavaScript.
 - 😄 Pronouns: He/They
 
