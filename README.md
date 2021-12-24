@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DataBase!
 - 👀 I’m interested in programming; specifically web design!
-- ⌨ I am fluent in HTML and hope to learn more!
-- 🌱 I’m currently learning CSS and JavaScript.
+- ⌨ I am fluent in HTML and CSS! I hope to learn more!
+- 🌱 I’m currently learning JavaScript.
 - 😄 Pronouns: He/They
 
 <!---
