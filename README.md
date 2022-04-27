@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @DataBase!
-- 👀 I’m interested in programming; specifically web design!
-- ⌨ I am fluent in JavaScript, ReactJS, Node.js, and more!
-- 🌱 I’m currently learning MySQL.
-- 😄 Pronouns: He/They
+## Hi, I'm DataBase, a web developer!
 
-<!---
-DataBase137/DataBase137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+- Pronouns: He/Him
+- I'm 13 years old!
+- I’m currently working on [WebZone](https://github.com/DataBase137/WebZone), a website design platform.
+- I’m learning Prisma to make auth.
+- Ask me for help if you need any, I will try my best!
+
+### Socials & Contact
+- Email: [dev.database137@outlook.com](mailto:dev.database137@outlook.com)
+- Codepen: [codepen.io/DataBase137](https://codepen.io/DataBase137)
+- Github: [@DataBase137](https://github.com/DataBase137)
+- Discord: DataBase#8984
+- Portfolio: [database137.github.io](https://database137.github.io)
+
+### Languages & Tools
+- JavaScript
+- ReactJS
+- Node.js
+- MySQL
+- Python
+- VSCode
