@@ -20,5 +20,6 @@
 - NextJS
 - Node.js
 - MySQL
+- Prisma
 - Python
 - VSCode
