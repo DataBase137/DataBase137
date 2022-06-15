@@ -17,6 +17,7 @@
 ### Languages & Tools
 - JavaScript
 - ReactJS
+- NextJs
 - Node.js
 - MySQL
 - Python
