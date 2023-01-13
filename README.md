@@ -1,9 +1,9 @@
 ## Hi, I'm DataBase, a web developer!
 
 ### About Me
-- Pronouns: He/Him
+- Pronouns: He/They
 - I'm 13 years old!
-- I’m currently working on [WebZone](https://github.com/DataBase137/WebZone), a website design platform.
+- I’m currently working on [Stroll](https://github.com/DataBase137/Stroll), a website design platform.
 - I’m learning Prisma to make auth.
 - Ask me for help if you need any, I will try my best!
 
