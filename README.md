@@ -18,7 +18,8 @@
 - JavaScript
 - ReactJS
 - NextJS
-- Node.js
+- NodeJS
+- ExpressJS
 - MySQL
 - Prisma
 - Python
