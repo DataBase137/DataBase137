@@ -3,7 +3,7 @@
 ### About Me
 - Pronouns: He/Him
 - I'm 14 years old!
-- I’m currently working on [Stroll](https://github.com/DataBase137/Stroll), a website design platform.
+- I’m currently working on [chatty](https://github.com/DataBase137/chatty), a chat app.
 - Ask me for help if you need any, I will try my best!
 
 ### Socials & Contact
