@@ -7,9 +7,9 @@
 
 ### Languages & Tools
 - JavaScript
+- TypeScript
 - React
-- NextJS
-- NodeJS
+- Next.JS
 - Express
 - MySQL
 - Prisma
