@@ -8,8 +8,12 @@
 ### Languages & Tools
 - JavaScript
 - TypeScript
+- Node.JS
+- ExpressJS
 - React
 - Next.JS
 - Express
 - MySQL
+- PosgreSQL
 - Prisma
+- 
