@@ -16,4 +16,3 @@
 - MySQL
 - PosgreSQL
 - Prisma
-- 
