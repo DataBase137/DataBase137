@@ -1,8 +1,8 @@
 ## Hi, I'm DB, a web developer!
 
 ### About Me
-- Pronouns: He/Him
-- I'm 14 years old!
+- Pronouns: he/him
+- I'm 16 years old!
 - I’m currently working on [chatty](https://github.com/DataBase137/chatty), a chat app.
 
 ### Languages & Tools
